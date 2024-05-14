@@ -1,0 +1,7 @@
+.banner{
+  width: 100%;
+  height: 347px;
+ /* background-image: url(/public/images/BannerOnePiece2.png);*/
+  background-repeat: no-repeat;
+  background-size: cover;
+}
