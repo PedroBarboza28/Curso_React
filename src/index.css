@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+/* Definindo seção genérica, formatação global de todos os elementos de card*/
+
+.cards{
+ display: flex;
+ gap: 5px;
+ flex-wrap: wrap;
+}

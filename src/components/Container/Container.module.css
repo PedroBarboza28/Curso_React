@@ -1,9 +1,10 @@
 .Container{
     width: 100%;
-    height: 500px;
     background-image: linear-gradient(to bottom, red, yellow);
-    padding-block: 1em;
-    margin-top: 3px solid black;
+    padding-block: 1rem;
     text-align: center;
-    color: white;
+    color: black;
+    padding-top: 25px;
+    font-weight: 500%;
+
 }

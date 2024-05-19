@@ -4,8 +4,8 @@ return(
   <header className={styles.header}>
   <span>One Piece</span>
   <nav>
-    <a href="#">Personagens</a>
-    <a href="#">Frutas</a>
+    <a href="#">Comunidade</a>
+    <a href="#">Eventos</a>
   </nav>
   
   </header>
